@@ -22,6 +22,6 @@ else:
 ```
 
 ## Output
-Screenshot 2026-06-05 225840.png
+![Output](<Screenshot 2026-06-05 225840.png>)
 
 ## Result
