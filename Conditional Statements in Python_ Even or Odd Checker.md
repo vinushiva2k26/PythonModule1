@@ -25,3 +25,4 @@ else:
 ![Output](<Screenshot 2026-06-05 225840.png>)
 
 ## Result
+Thus, the Python program was successfully executed to determine whether the given number is EVEN or ODD using `if...else` statements.
